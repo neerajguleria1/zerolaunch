@@ -51,7 +51,7 @@ export default function ContactContent() {
               </div>
               <div className="flex items-start gap-4">
                 <div className="w-12 h-12 rounded-xl bg-blue-500/10 flex items-center justify-center flex-shrink-0"><MapPin className="w-5 h-5 text-blue-400" /></div>
-                <div><h3 className="text-white font-medium mb-1">Office</h3><p className="text-white/50 text-sm">{siteConfig.address.city}, {siteConfig.address.state} {siteConfig.address.zip}</p></div>
+                <div><h3 className="text-white font-medium mb-1">Office</h3><p className="text-white/50 text-sm">{siteConfig.address.city}, {siteConfig.address.country}</p></div>
               </div>
               <div className="flex items-start gap-4">
                 <div className="w-12 h-12 rounded-xl bg-blue-500/10 flex items-center justify-center flex-shrink-0"><Clock className="w-5 h-5 text-blue-400" /></div>

@@ -10,8 +10,8 @@ export const siteConfig = {
   address: {
     street: '',
     city: 'Chandigarh',
-    state: 'Chandigarh',
-    zip: '160001',
+    state: '',
+    zip: '',
     country: 'India',
   },
   social: {
