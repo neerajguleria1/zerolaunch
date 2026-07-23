@@ -385,7 +385,7 @@ export const faqs: FAQ[] = [
 
 export const teamMembers: TeamMember[] = [
   { name: 'Neeraj Guleria', role: 'Founder & Developer', bio: 'Full-stack developer specializing in building MVPs and scalable web applications from idea to launch.' },
-  { name: 'Team Member', role: 'Co-Founder', bio: 'Passionate about creating technology solutions that solve real-world problems for businesses.' },
+  { name: 'Vasaavi', role: 'Co-Founder', bio: 'Passionate about creating technology solutions that solve real-world problems for businesses.' },
 ];
 
 export const blogPosts: BlogPost[] = [
