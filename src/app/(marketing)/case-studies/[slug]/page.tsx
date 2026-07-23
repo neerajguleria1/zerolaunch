@@ -6,9 +6,8 @@ const CaseStudyDetail = dynamic(() => import('./detail'), { loading: () => <div 
 
 export function generateStaticParams() {
   return [
-    { slug: 'techflow-saas-platform' },
-    { slug: 'fittrack-mobile-app' },
-    { slug: 'datasmart-ai-platform' },
+    { slug: 'zymeriq' },
+    { slug: 'dripfeed' },
   ];
 }
 

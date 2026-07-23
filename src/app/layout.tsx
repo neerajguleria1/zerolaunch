@@ -24,11 +24,11 @@ export const metadata: Metadata = {
   keywords: ['software agency', 'MVP development', 'custom software', 'AI development', 'web development', 'mobile apps', 'startup', 'technology partner'],
   authors: [{ name: 'ZeroToLaunch' }],
   creator: 'ZeroToLaunch',
-  metadataBase: new URL('https://zerotolaunch.dev'),
+  metadataBase: new URL('https://zerolaunch.vercel.app'),
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://zerotolaunch.dev',
+    url: 'https://zerolaunch.vercel.app',
     siteName: 'ZeroToLaunch',
     title: 'ZeroToLaunch | Build. Launch. Scale.',
     description: 'Premium technology partner that helps founders and businesses go from idea to launch.',
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
     follow: true,
   },
   icons: {
-    icon: '/favicon.ico',
+    icon: '/favicon.svg',
   },
 };
 
@@ -66,8 +66,8 @@ export default function RootLayout({
               '@context': 'https://schema.org',
               '@type': 'Organization',
               name: 'ZeroToLaunch',
-              url: 'https://zerotolaunch.dev',
-              logo: 'https://zerotolaunch.dev/logo.png',
+              url: 'https://zerolaunch.vercel.app',
+              logo: 'https://zerolaunch.vercel.app/logo.png',
               description: 'Premium technology partner that helps founders and businesses go from idea to launch.',
               sameAs: [
                 'https://twitter.com/zerotolaunch',
