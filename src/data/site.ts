@@ -5,7 +5,7 @@ export const siteConfig = {
   tagline: 'Build. Launch. Scale.',
   description: 'ZeroToLaunch is a premium technology partner that helps founders and businesses go from idea to launch while supporting growth through engineering and digital services.',
   url: 'https://zerotolaunch.dev',
-  email: 'hello@zerotolaunch.dev',
+  email: 'neerajworking51@gmail.com',
   phone: '+91 8091043893',
   address: {
     street: '',

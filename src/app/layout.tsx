@@ -78,7 +78,7 @@ export default function RootLayout({
                 '@type': 'ContactPoint',
                 telephone: '+91-8091043893',
                 contactType: 'customer service',
-                email: 'hello@zerotolaunch.dev',
+                email: 'neerajworking51@gmail.com',
               },
               address: {
                 '@type': 'PostalAddress',
