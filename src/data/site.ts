@@ -187,11 +187,9 @@ export const services: Service[] = [
 ];
 
 export const stats: Stat[] = [
-  { label: 'Projects Delivered', value: '150', suffix: '+' },
-  { label: 'Happy Clients', value: '80', suffix: '+' },
-  { label: 'Team Members', value: '40', suffix: '+' },
-  { label: 'Years Experience', value: '8', suffix: '+' },
-  { label: 'Countries Served', value: '25', suffix: '+' },
+  { label: 'Projects Delivered', value: '2', suffix: '' },
+  { label: 'Happy Clients', value: '2', suffix: '' },
+  { label: 'Team Members', value: '2', suffix: '' },
   { label: 'Uptime', value: '99.9', suffix: '%' },
 ];
 
@@ -386,12 +384,8 @@ export const faqs: FAQ[] = [
 ];
 
 export const teamMembers: TeamMember[] = [
-  { name: 'Alex Rivera', role: 'CEO & Founder', bio: 'Serial entrepreneur with 10+ years in tech. Built and scaled multiple startups from zero to launch.' },
-  { name: 'Priya Patel', role: 'CTO', bio: 'Former engineering lead at FAANG companies. Expert in scalable architecture and AI systems.' },
-  { name: 'Jordan Lee', role: 'Head of Design', bio: 'Award-winning designer with a passion for creating beautiful, intuitive user experiences.' },
-  { name: 'Sam Chen', role: 'Lead Engineer', bio: 'Full-stack wizard specializing in React, Node.js, and cloud-native applications.' },
-  { name: 'Maya Sharma', role: 'Head of Growth', bio: 'Growth marketing expert with a track record of scaling SaaS businesses.' },
-  { name: 'Chris Morgan', role: 'Project Manager', bio: 'Certified PMP with experience managing complex software projects across industries.' },
+  { name: 'Neeraj Guleria', role: 'Founder & Developer', bio: 'Full-stack developer specializing in building MVPs and scalable web applications from idea to launch.' },
+  { name: 'Team Member', role: 'Co-Founder', bio: 'Passionate about creating technology solutions that solve real-world problems for businesses.' },
 ];
 
 export const blogPosts: BlogPost[] = [
