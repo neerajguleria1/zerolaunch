@@ -76,17 +76,17 @@ export default function RootLayout({
               ],
               contactPoint: {
                 '@type': 'ContactPoint',
-                telephone: '+1-555-123-4567',
+                telephone: '+91-8091043893',
                 contactType: 'customer service',
                 email: 'hello@zerotolaunch.dev',
               },
               address: {
                 '@type': 'PostalAddress',
-                streetAddress: '123 Innovation Drive',
-                addressLocality: 'San Francisco',
-                addressRegion: 'CA',
-                postalCode: '94105',
-                addressCountry: 'US',
+                streetAddress: '',
+                addressLocality: 'Chandigarh',
+                addressRegion: 'Chandigarh',
+                postalCode: '160001',
+                addressCountry: 'IN',
               },
             }),
           }}
