@@ -1,6 +1,6 @@
 export default function Loading() {
   return (
-    <div className="min-h-screen flex items-center justify-center bg-background">
+    <div className="min-h-screen flex items-center justify-center" style={{ background: '#0a0a0f' }}>
       <div className="flex flex-col items-center gap-4">
         <div className="relative">
           <div className="w-12 h-12 rounded-xl bg-gradient-to-br from-blue-500 to-purple-600 flex items-center justify-center animate-pulse">

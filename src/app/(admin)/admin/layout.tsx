@@ -31,7 +31,7 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
   const [mobileOpen, setMobileOpen] = useState(false);
 
   return (
-    <div className="flex min-h-screen bg-background">
+    <div className="flex min-h-screen" style={{ background: '#0a0a0f' }}>
       <aside className={cn(
         'fixed lg:sticky top-0 left-0 z-40 h-screen w-64 bg-black/50 backdrop-blur-xl border-r border-white/5 flex flex-col transition-transform lg:translate-x-0',
         mobileOpen ? 'translate-x-0' : '-translate-x-full'
