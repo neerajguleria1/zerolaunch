@@ -56,7 +56,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${geistSans.variable} ${geistMono.variable} dark`}>
-      <body className="min-h-screen bg-background text-foreground antialiased">
+      <body className="min-h-screen bg-transparent text-foreground antialiased">
         <Global3D />
         <Analytics />
         <script
